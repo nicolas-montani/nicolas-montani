@@ -4,10 +4,10 @@
 
 🇨🇭 I studied Computer Science at the University of St. Gallen<br>
 👾 I am passionate about cybersecurity<br>
-🌌 In my free time, I build websites<br>
-💽 I love working with microcontrollers and IoT devices<br>
+💽 In my free time, I build websites<br>
+🌌 I love working with microcontrollers and IoT devices<br>
 
----
+#
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
